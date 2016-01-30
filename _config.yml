@@ -1,0 +1,28 @@
+name: tre4me.com
+favicon: null
+layout_spectrum: 0.814446561736986
+typography_spectrum: 0.2804707989562303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.00950215756893158
+  lightness: 0.506645719287917
+  saturation: 0.79102564137429
+  rhythmicContrast: 0.3697811374440789
+purpose: []
